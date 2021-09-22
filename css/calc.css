@@ -1,0 +1,45 @@
+.content {
+	width: 500px;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+
+.head {
+	background-color: darkgray;
+	height: 8vh;
+	text-align: right;
+	font-size: 35px;
+	color: white;
+	border: 1px solid black none;
+	
+
+}
+
+.signs {
+	background-color: orange;
+	height: 8vh;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	padding: 10px;
+}
+
+.num {
+	background-color: lightsteelblue;
+	height: 8vh;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid;
+	border-top: none;
+	border-left: none;
+	padding: 10px;
+}
+
+.zero {
+	text-align: center;
+}
